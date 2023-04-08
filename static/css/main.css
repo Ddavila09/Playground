@@ -1,0 +1,19 @@
+
+body {
+    text-align: center;
+    margin: 0;
+  }
+
+
+
+.boxes {
+  margin-top: 50px;
+  height: 200px;
+  width: 200px;
+  background-color: blue;
+  margin: 25px 25px;
+  border: solid 2px black;
+  display: inline-block;
+
+}
+
